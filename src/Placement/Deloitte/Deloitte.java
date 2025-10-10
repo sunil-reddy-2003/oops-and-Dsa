@@ -1,4 +1,4 @@
-package Strings;
+package Placement.Deloitte;
 
 public class Deloitte {
     public static void main(String[] args) {

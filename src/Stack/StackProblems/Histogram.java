@@ -1,4 +1,4 @@
-package Stack;
+package Stack.StackProblems;
 import java.util.Stack;
 class Histogram {
     public static void main(String[] args) {
