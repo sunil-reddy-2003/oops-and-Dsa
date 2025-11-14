@@ -1,4 +1,4 @@
-package OOPS.interfaces;
+package OOPS.interfaces.vehicles;
 
 public class NiceCar {
     private Engine engine;
