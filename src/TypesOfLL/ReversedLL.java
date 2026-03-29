@@ -36,6 +36,7 @@ public class ReversedLL {
         NodeLL curr=head;
         NodeLL prev=null;
         NodeLL next=null;
+//prev  curr next
 
         while(curr!=null){
             next=curr.next;
